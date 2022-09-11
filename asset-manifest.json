@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/social-network-friend-finder/static/css/main.e8f0e8e6.css",
+    "main.js": "/social-network-friend-finder/static/js/main.27609a40.js",
+    "static/media/User.png": "/social-network-friend-finder/static/media/User.e51c20b281edff34aaca.png",
+    "static/media/logo.png": "/social-network-friend-finder/static/media/logo.006c210d74a672d45346.png",
+    "static/media/userPost.png": "/social-network-friend-finder/static/media/userPost.505d302b4e070fd7261f.png",
+    "static/media/preloader.svg": "/social-network-friend-finder/static/media/preloader.cb20956e13693597fa59bf2ab6fff1c9.svg",
+    "index.html": "/social-network-friend-finder/index.html",
+    "main.e8f0e8e6.css.map": "/social-network-friend-finder/static/css/main.e8f0e8e6.css.map",
+    "main.27609a40.js.map": "/social-network-friend-finder/static/js/main.27609a40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8f0e8e6.css",
+    "static/js/main.27609a40.js"
+  ]
+}
