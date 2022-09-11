@@ -1,0 +1,15 @@
+.item {
+  font-family: 'Lato', sans-serif;
+  line-height: 26px;
+  color: #6d6e71;
+  font-size: 16px;
+}
+
+.item img {
+  width: 50px;
+  border-radius: 50%;
+}
+
+.likes {
+  color:black;
+}

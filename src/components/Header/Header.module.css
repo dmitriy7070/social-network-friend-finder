@@ -1,0 +1,78 @@
+.header {
+  grid-area: h;
+  background-color: #333;
+  max-width: 100%;
+  min-width: 695px;
+}
+
+.loginBlock {
+  float: right;
+
+  margin: 15px 50px;
+  font-size: 16px;
+  font-weight: 500;
+  color: white;
+  padding: 10px 20px;
+  margin: 8px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #149AC9 0%, #286090 51%, #204d74 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+}
+
+.loginBlock:hover {
+  background-position: right center;
+}
+
+.loginBlockOut {
+  float: right;
+  font-size: 14px;
+  font-weight: 500;
+  margin-right: 0px;
+  margin-left: 20px;
+  padding: 2px 4px 2px 4px;
+  color: white;
+  border: 1px solid #333;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #149AC9 0%, #286090 51%, #204d74 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+  cursor: pointer;
+}
+
+.it {
+  display: inline-block;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 20px;
+}
+
+.con1 {
+  width: 100px;
+}
+
+.con2 {
+  width: 100px;
+  margin-left: -22px;
+}
+
+.con3 {
+  width: 100px;
+}
+
+.logo {
+  height: 20px;
+  margin-right: 48px;
+}

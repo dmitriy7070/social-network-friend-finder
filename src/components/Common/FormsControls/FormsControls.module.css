@@ -1,0 +1,47 @@
+.formControl.error input,
+.formControl.error textarea {
+    border: solid red 2px;
+}
+
+.formControl.error span {
+    color: red;
+    margin-left: 130px;
+}
+
+.formSummaryError {
+    border: solid red 1px;
+    padding: 5px;
+    color: rosybrown;
+}
+
+.formLog {
+    margin: 5px;
+    padding: 8px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.log {
+    text-align: center;
+}
+
+.login {
+    margin: 15px 50px;
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #149AC9 0%, #286090 51%, #204d74 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+}
+
+.remember {
+    border-radius: 10px;
+}

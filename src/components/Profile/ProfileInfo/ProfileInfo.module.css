@@ -1,0 +1,73 @@
+.descriptionBlock {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    padding: 20px;
+}
+
+.pictureAva {
+    width: 200px;
+    margin-left: 50px;
+    border-radius: 50%;
+}
+
+.myInformation {
+    margin-top: -30px;
+    margin-left: 80px;
+}
+
+.name {
+    color: #27aae1;
+}
+
+.inputWrapper {
+    position: relative;
+    text-align: left;
+    margin-left: 70px;
+    margin-top: -150px;
+}
+
+.inputFile {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+
+}
+
+.inputFileButtonText {
+    background-color: #333;
+    color: #fff;
+    width: 200px;
+    cursor: pointer;
+    padding: 2px 65px 2px 65px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 3px;
+    font-size: 12px;
+}
+
+.bEdit {
+    background-color: #333;
+    color: #fff;
+    width: 50px;
+    cursor: pointer;
+    padding: 2px 5px 2px 5px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 3px;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.bStatus {
+    border: 2px solid #27aae1;
+    border-radius: 10px;
+    padding: 3px 30px 3px 30px;
+    cursor: pointer;
+    color: #27aae1;
+}
+
+.tStatus {
+    margin-bottom: 10px;
+}
+
+.blockMe {
+    margin-top: 20px;
+}

@@ -1,0 +1,43 @@
+.userPhoto {
+    height: 100px;
+    width: 100px;
+}
+
+.page {
+    text-align: center;
+}
+
+.selectedPage {
+    font-weight: bold;
+}
+
+.a {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.a:hover {
+    color: gray;
+}
+
+.buttonsUF {
+    margin: 10px 20px;
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #149AC9 0%, #286090 51%, #204d74 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+}
+
+.usersPage {
+    margin-left: 20px;
+}
